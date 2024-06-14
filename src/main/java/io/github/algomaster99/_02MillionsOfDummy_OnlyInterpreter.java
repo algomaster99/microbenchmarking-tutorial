@@ -1,7 +1,7 @@
 package io.github.algomaster99;
 
 // -Xint flag is used to disable the JIT compiler
-public class _01MillionsOfDummy_OnlyInterpreter {
+public class _02MillionsOfDummy_OnlyInterpreter {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         Dummy.createNDummies(1000000);

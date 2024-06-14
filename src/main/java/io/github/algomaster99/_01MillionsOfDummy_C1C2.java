@@ -1,7 +1,7 @@
 package io.github.algomaster99;
 
 // the default mode
-public class _02MillionsOfDummy_C1C2 {
+public class _01MillionsOfDummy_C1C2 {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         Dummy.createNDummies(1000000);

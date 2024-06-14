@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="_06MillionsOfDummy_C1C2_Warmup" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="io.github.algomaster99._06MillionsOfDummy_C1C2_Warmup" />
+  <configuration default="false" name="_05MillionsOfDummy_C1C2_Warmup" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="io.github.algomaster99._05MillionsOfDummy_C1C2_Warmup" />
     <module name="microbenchmark" />
     <extension name="coverage">
       <pattern>

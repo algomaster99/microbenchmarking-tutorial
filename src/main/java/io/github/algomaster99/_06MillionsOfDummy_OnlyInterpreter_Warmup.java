@@ -1,6 +1,6 @@
 package io.github.algomaster99;
 
-public class _05MillionsOfDummy_OnlyInterpreter_Warmup {
+public class _06MillionsOfDummy_OnlyInterpreter_Warmup {
     static {
         long start = System.currentTimeMillis();
         Dummy.createNDummies(1000000);

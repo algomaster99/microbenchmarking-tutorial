@@ -1,11 +1,11 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="_01MillionsOfDummy_OnlyInterpreter" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="io.github.algomaster99._01MillionsOfDummy_OnlyInterpreter" />
+  <configuration default="false" name="_06MillionsOfDummy_OnlyInterpreter_Warmup" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="io.github.algomaster99._06MillionsOfDummy_OnlyInterpreter_Warmup" />
     <module name="microbenchmark" />
     <option name="VM_PARAMETERS" value="-Xint" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="io.github.algomaster99._02MillionsOfDummy_C1C2" />
+        <option name="PATTERN" value="io.github.algomaster99.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>

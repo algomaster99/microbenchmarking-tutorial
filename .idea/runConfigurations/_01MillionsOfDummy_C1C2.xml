@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="_02MillionsOfDummy_C1C2" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="io.github.algomaster99._02MillionsOfDummy_C1C2" />
+  <configuration default="false" name="_01MillionsOfDummy_C1C2" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="io.github.algomaster99._01MillionsOfDummy_C1C2" />
     <module name="microbenchmark" />
     <extension name="coverage">
       <pattern>
